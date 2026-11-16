@@ -1,0 +1,7 @@
+Changes made from the supplied portfolio source:
+- Replaced the displayed personal name with Levehel and removed the previous first name from the portfolio content.
+- Kept source-supported details: Grade 12, Kings School, web development learning, HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, database management, and the two portfolio project descriptions.
+- Restyled the site with a soft watery pink and pale blue background, lavender accents, rounded cards, and responsive layout.
+- The reusable template contains clearly marked placeholders.
+- Contact details are left as placeholders rather than inventing private information.
+- The contact form is a front-end demo only; it does not send or store messages.
